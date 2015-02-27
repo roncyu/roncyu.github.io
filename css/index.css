@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F6;
-	background-color: #F9AACA;
+	color: #0000F5;
+	background-color: #EB68D0;
 }
 
 .html
@@ -289,7 +289,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
-	left: 345px;
+	left: 298px;
 	background: #FFFFFF url("../images/gorgon_feature-u387-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -304,7 +304,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
-	left: 723px;
+	left: 676px;
 	background: #FFFFFF url("../images/stratos_feature-u388-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -319,7 +319,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
-	left: 1101px;
+	left: 1053px;
 	background: #FFFFFF url("../images/levia_feature-u389-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -334,7 +334,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
-	left: 1479px;
+	left: 1431px;
 	background: #FFFFFF url("../images/research_feature-u390-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -353,7 +353,14 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 9px;
-	left: 345px;
+	left: 297px;
+}
+
+#u606
+{
+	position: absolute;
+	width: 371px;
+	background-color: transparent;
 }
 
 #u606popup
@@ -364,7 +371,7 @@
 #u608
 {
 	z-index: 48;
-	width: 370px;
+	width: 371px;
 	height: 71px;
 	border-style: none;
 	border-color: transparent;
@@ -427,11 +434,11 @@
 {
 	z-index: 55;
 	width: 0.01px;
-	height: 502px;
+	height: 503px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 9px;
-	left: 730px;
+	margin-top: 8px;
+	left: 675px;
 }
 
 #u689popup
@@ -486,14 +493,13 @@
 	width: 370px;
 	position: relative;
 	margin-right: -10000px;
-	left: 1px;
 }
 
 #u697
 {
 	position: absolute;
 	width: 370px;
-	height: 502px;
+	height: 503px;
 }
 
 #pamphletu698
@@ -504,7 +510,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	left: 1100px;
+	left: 1053px;
 }
 
 #u707popup
@@ -577,10 +583,10 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	left: 1479px;
+	left: 1432px;
 }
 
-#u606,#u689,#u707,#u719
+#u689,#u707,#u719
 {
 	position: absolute;
 	width: 370px;

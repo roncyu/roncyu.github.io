@@ -1,31 +1,34 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425009199825">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425029543078">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
-    <file name="master_a-master.css" crc="254082016" ref="about-me:contact:gorgon:index"/>
-    <file name="about-me.css" crc="3923431235" ref="about-me"/>
-    <file name="contact.css" crc="217722219" ref="contact"/>
-    <file name="gorgon.css" crc="3767490003" ref="gorgon"/>
-    <file name="index.css" crc="4143557322" ref="index"/>
+    <file name="master_a-master.css" crc="4218052653" ref="contact:levia:research:gorgon:index:stratos:about-me"/>
+    <file name="contact.css" crc="4261786148" ref="contact"/>
+    <file name="levia.css" crc="4088131886" ref="levia"/>
+    <file name="research.css" crc="465492379" ref="research"/>
+    <file name="gorgon.css" crc="220771432" ref="gorgon"/>
+    <file name="index.css" crc="4125845712" ref="index"/>
+    <file name="stratos.css" crc="29919865" ref="stratos"/>
+    <file name="about-me.css" crc="4230223552" ref="about-me"/>
   </folder>
   <folder name="assets">
     <file name="gorgon_engine.png" crc="232016649" mt="1421954264000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="about-me:contact:index:gorgon"/>
-    <file name="museutils.js" crc="3777594392" ref="about-me:contact:index:gorgon"/>
-    <file name="jquery.watch.js" crc="4144919381" ref="about-me:contact:index:gorgon"/>
-    <file name="jquery.musemenu.js" crc="415733523" ref="about-me:contact:index:gorgon"/>
-    <file name="html5shiv.js" crc="4241844378" ref="about-me:contact:index:gorgon"/>
-    <file name="webpro.js" crc="474087315" ref="contact:index:gorgon"/>
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="about-me:contact:index:gorgon:stratos:research:levia"/>
+    <file name="museutils.js" crc="3777594392" ref="about-me:contact:index:gorgon:stratos:research:levia"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="about-me:contact:index:gorgon:stratos:research:levia"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="about-me:contact:index:gorgon:stratos:research:levia"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about-me:contact:index:gorgon:stratos:research:levia"/>
+    <file name="webpro.js" crc="474087315" ref="contact:index:gorgon:stratos:research:levia"/>
     <file name="form_check.php" crc="306825315" ref="contact"/>
     <file name="form_throttle.php" crc="4293816517" ref="contact"/>
     <file name="form_process.php" crc="109188895" ref="contact"/>
     <file name="form-u744.php" crc="236143745" ref="contact"/>
-    <file name="pie.js" crc="3827607177" ref="index:gorgon"/>
+    <file name="pie.js" crc="3827607177" ref="index:gorgon:stratos:research:levia"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index"/>
-    <file name="musewpslideshow.js" crc="274584885" ref="index:gorgon"/>
-    <file name="jquery.museoverlay.js" crc="170414611" ref="index:gorgon"/>
-    <file name="touchswipe.js" crc="100683906" ref="index:gorgon"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index:gorgon:stratos:research:levia"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index:gorgon:stratos:research:levia"/>
+    <file name="touchswipe.js" crc="100683906" ref="index:gorgon:stratos:research:levia"/>
   </folder>
   <folder name="images">
     <file name="u759-17.png" crc="209764226" ref="contact"/>
@@ -36,31 +39,88 @@
     <file name="stratos_feature-u388-fr.jpg" crc="4108361237" ref="index"/>
     <file name="levia_feature-u389-fr.jpg" crc="22222047" ref="index"/>
     <file name="research_feature-u390-fr.jpg" crc="4169449516" ref="index"/>
+    <file name="gorgon_overview.jpg" crc="3949462251" ref="gorgon"/>
+    <file name="blank.gif" crc="4208392903" ref="gorgon:stratos:research:levia"/>
     <file name="gorgon_centralhub.jpg" crc="280578805" ref="gorgon"/>
-    <file name="blank.gif" crc="4208392903" ref="gorgon"/>
     <file name="gorgon_crossroad.jpg" crc="487596363" ref="gorgon"/>
     <file name="gorgon_database.jpg" crc="29819986" ref="gorgon"/>
     <file name="gorgon_engine.jpg" crc="236058874" ref="gorgon"/>
     <file name="gorgon_mineraljunction.jpg" crc="4163862535" ref="gorgon"/>
     <file name="gorgon_oasis.jpg" crc="60578173" ref="gorgon"/>
-    <file name="gorgon_overview.jpg" crc="3949462251" ref="gorgon"/>
     <file name="gorgon_pipeline.jpg" crc="493395746" ref="gorgon"/>
     <file name="gorgon_readyroom.jpg" crc="167323989" ref="gorgon"/>
     <file name="gorgon_watertreatment.jpg" crc="3992407696" ref="gorgon"/>
+    <file name="gorgon_overview70x40.jpg" crc="4263104537" ref="gorgon"/>
     <file name="gorgon_centralhub70x40.jpg" crc="15282650" ref="gorgon"/>
     <file name="gorgon_crossroad70x40.jpg" crc="162212585" ref="gorgon"/>
     <file name="gorgon_database70x40.jpg" crc="192598761" ref="gorgon"/>
     <file name="gorgon_engine70x40.jpg" crc="4027485779" ref="gorgon"/>
     <file name="gorgon_mineraljunction70x40.jpg" crc="3879430058" ref="gorgon"/>
     <file name="gorgon_oasis70x40.jpg" crc="4222797086" ref="gorgon"/>
-    <file name="gorgon_overview70x40.jpg" crc="4263104537" ref="gorgon"/>
     <file name="gorgon_pipeline70x40.jpg" crc="4070987669" ref="gorgon"/>
     <file name="gorgon_readyroom70x40.jpg" crc="526272704" ref="gorgon"/>
     <file name="gorgon_watertreatment70x40.jpg" crc="503203766" ref="gorgon"/>
-    <file name="loading.gif" crc="3815509949" ref="gorgon"/>
+    <file name="loading.gif" crc="3815509949" ref="gorgon:stratos:research:levia"/>
+    <file name="stratos_overview.jpg" crc="268924563" ref="stratos"/>
+    <file name="stratos_arsenal.jpg" crc="224272765" ref="stratos"/>
+    <file name="stratos_biolab.jpg" crc="3951314319" ref="stratos"/>
+    <file name="stratos_bridge.jpg" crc="3760976106" ref="stratos"/>
+    <file name="stratos_cargo.jpg" crc="4012834955" ref="stratos"/>
+    <file name="stratos_control.jpg" crc="171199609" ref="stratos"/>
+    <file name="stratos_hanger.jpg" crc="210419963" ref="stratos"/>
+    <file name="stratos_lobby.jpg" crc="336667864" ref="stratos"/>
+    <file name="stratos_messhall.jpg" crc="4223380958" ref="stratos"/>
+    <file name="stratos_observation.jpg" crc="361246612" ref="stratos"/>
+    <file name="stratos_westwing.jpg" crc="313637774" ref="stratos"/>
+    <file name="stratos_overview70x40.jpg" crc="4103007047" ref="stratos"/>
+    <file name="stratos_arsenal70x40.jpg" crc="3949604789" ref="stratos"/>
+    <file name="stratos_biolab70x40.jpg" crc="410729203" ref="stratos"/>
+    <file name="stratos_bridge70x40.jpg" crc="4018304720" ref="stratos"/>
+    <file name="stratos_cargo70x40.jpg" crc="302785851" ref="stratos"/>
+    <file name="stratos_control70x40.jpg" crc="316293346" ref="stratos"/>
+    <file name="stratos_hanger70x40.jpg" crc="3880437225" ref="stratos"/>
+    <file name="stratos_lobby70x40.jpg" crc="3840488111" ref="stratos"/>
+    <file name="stratos_messhall70x40.jpg" crc="303319464" ref="stratos"/>
+    <file name="stratos_observation70x40.jpg" crc="173821428" ref="stratos"/>
+    <file name="stratos_westwing70x40.jpg" crc="96583851" ref="stratos"/>
+    <file name="research_baggage.jpg" crc="3939167029" ref="research"/>
+    <file name="research_bar.jpg" crc="383249008" ref="research"/>
+    <file name="research_club.jpg" crc="61919708" ref="research"/>
+    <file name="research_holo.jpg" crc="181462327" ref="research"/>
+    <file name="research_kiosk.jpg" crc="118456876" ref="research"/>
+    <file name="research_plaza.jpg" crc="260423024" ref="research"/>
+    <file name="research_reactor.jpg" crc="4055849606" ref="research"/>
+    <file name="research_station.jpg" crc="314790424" ref="research"/>
+    <file name="research_baggage70x40.jpg" crc="3773807557" ref="research"/>
+    <file name="research_bar70x40.jpg" crc="4185835045" ref="research"/>
+    <file name="research_club70x40.jpg" crc="3810314620" ref="research"/>
+    <file name="research_holo70x40.jpg" crc="153699663" ref="research"/>
+    <file name="research_kiosk70x40.jpg" crc="422391455" ref="research"/>
+    <file name="research_plaza70x40.jpg" crc="189234218" ref="research"/>
+    <file name="research_reactor70x40.jpg" crc="306162992" ref="research"/>
+    <file name="research_station70x40.jpg" crc="4076088603" ref="research"/>
+    <file name="levia_accesspoint.jpg" crc="485569278" ref="levia"/>
+    <file name="levia_armory.jpg" crc="3876984819" ref="levia"/>
+    <file name="levia_astrometrics.jpg" crc="241860944" ref="levia"/>
+    <file name="levia_eastwing.jpg" crc="4120641721" ref="levia"/>
+    <file name="levia_hangerbay.jpg" crc="276625365" ref="levia"/>
+    <file name="levia_junction.jpg" crc="47578541" ref="levia"/>
+    <file name="levia_lobby.jpg" crc="4260657684" ref="levia"/>
+    <file name="levia_pipeline.jpg" crc="302800405" ref="levia"/>
+    <file name="levia_accesspoint70x40.jpg" crc="4156215905" ref="levia"/>
+    <file name="levia_armory70x40.jpg" crc="400236332" ref="levia"/>
+    <file name="levia_astrometrics70x40.jpg" crc="4237524225" ref="levia"/>
+    <file name="levia_eastwing70x40.jpg" crc="404121820" ref="levia"/>
+    <file name="levia_hangerbay70x40.jpg" crc="3767599741" ref="levia"/>
+    <file name="levia_junction70x40.jpg" crc="453272473" ref="levia"/>
+    <file name="levia_lobby70x40.jpg" crc="295672501" ref="levia"/>
+    <file name="levia_pipeline70x40.jpg" crc="34042257" ref="levia"/>
   </folder>
-  <file name="about-me.html" crc="271622039" mt="1425009092766" redirect="true"/>
-  <file name="contact.html" crc="446381124" mt="1425009092767" redirect="true"/>
-  <file name="index.html" crc="325627522" mt="1425009092769" redirect="true"/>
-  <file name="gorgon.html" crc="500639027" mt="1425009092771" redirect="true"/>
+  <file name="about-me.html" crc="247182668" mt="1425013049508" redirect="true"/>
+  <file name="contact.html" crc="3959966451" mt="1425012613987" redirect="true"/>
+  <file name="index.html" crc="190586282" mt="1425013032243" redirect="true"/>
+  <file name="gorgon.html" crc="4173082396" mt="1425012613989" redirect="true"/>
+  <file name="stratos.html" crc="508274652" mt="1425012982881" redirect="true"/>
+  <file name="research.html" crc="430807294" mt="1425012613990" redirect="true"/>
+  <file name="levia.html" crc="3829800333" mt="1425012613990" redirect="true"/>
 </manifest>

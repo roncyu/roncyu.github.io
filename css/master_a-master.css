@@ -155,8 +155,6 @@
 #u667-8
 {
 	background-color: transparent;
-	line-height: 58px;
-	font-size: 48px;
 	color: #FFFFFF;
 	text-align: center;
 	font-family: asap, sans-serif;
@@ -164,8 +162,15 @@
 	position: relative;
 }
 
+#u667-2
+{
+	font-size: 60px;
+	line-height: 72px;
+}
+
 #u667-4,#u667-6
 {
+	font-size: 48px;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 

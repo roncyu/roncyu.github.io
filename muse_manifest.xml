@@ -1,0 +1,66 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425009199825">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_a-master.css" crc="254082016" ref="about-me:contact:gorgon:index"/>
+    <file name="about-me.css" crc="3923431235" ref="about-me"/>
+    <file name="contact.css" crc="217722219" ref="contact"/>
+    <file name="gorgon.css" crc="3767490003" ref="gorgon"/>
+    <file name="index.css" crc="4143557322" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="gorgon_engine.png" crc="232016649" mt="1421954264000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="about-me:contact:index:gorgon"/>
+    <file name="museutils.js" crc="3777594392" ref="about-me:contact:index:gorgon"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="about-me:contact:index:gorgon"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="about-me:contact:index:gorgon"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about-me:contact:index:gorgon"/>
+    <file name="webpro.js" crc="474087315" ref="contact:index:gorgon"/>
+    <file name="form_check.php" crc="306825315" ref="contact"/>
+    <file name="form_throttle.php" crc="4293816517" ref="contact"/>
+    <file name="form_process.php" crc="109188895" ref="contact"/>
+    <file name="form-u744.php" crc="236143745" ref="contact"/>
+    <file name="pie.js" crc="3827607177" ref="index:gorgon"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index:gorgon"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index:gorgon"/>
+    <file name="touchswipe.js" crc="100683906" ref="index:gorgon"/>
+  </folder>
+  <folder name="images">
+    <file name="u759-17.png" crc="209764226" ref="contact"/>
+    <file name="u759-17-r.png" crc="4045924442" ref="contact"/>
+    <file name="u759-17-m.png" crc="4254700044" ref="contact"/>
+    <file name="u759-17-fs.png" crc="4197433778" ref="contact"/>
+    <file name="gorgon_feature-u387-fr.jpg" crc="3950950248" ref="index"/>
+    <file name="stratos_feature-u388-fr.jpg" crc="4108361237" ref="index"/>
+    <file name="levia_feature-u389-fr.jpg" crc="22222047" ref="index"/>
+    <file name="research_feature-u390-fr.jpg" crc="4169449516" ref="index"/>
+    <file name="gorgon_centralhub.jpg" crc="280578805" ref="gorgon"/>
+    <file name="blank.gif" crc="4208392903" ref="gorgon"/>
+    <file name="gorgon_crossroad.jpg" crc="487596363" ref="gorgon"/>
+    <file name="gorgon_database.jpg" crc="29819986" ref="gorgon"/>
+    <file name="gorgon_engine.jpg" crc="236058874" ref="gorgon"/>
+    <file name="gorgon_mineraljunction.jpg" crc="4163862535" ref="gorgon"/>
+    <file name="gorgon_oasis.jpg" crc="60578173" ref="gorgon"/>
+    <file name="gorgon_overview.jpg" crc="3949462251" ref="gorgon"/>
+    <file name="gorgon_pipeline.jpg" crc="493395746" ref="gorgon"/>
+    <file name="gorgon_readyroom.jpg" crc="167323989" ref="gorgon"/>
+    <file name="gorgon_watertreatment.jpg" crc="3992407696" ref="gorgon"/>
+    <file name="gorgon_centralhub70x40.jpg" crc="15282650" ref="gorgon"/>
+    <file name="gorgon_crossroad70x40.jpg" crc="162212585" ref="gorgon"/>
+    <file name="gorgon_database70x40.jpg" crc="192598761" ref="gorgon"/>
+    <file name="gorgon_engine70x40.jpg" crc="4027485779" ref="gorgon"/>
+    <file name="gorgon_mineraljunction70x40.jpg" crc="3879430058" ref="gorgon"/>
+    <file name="gorgon_oasis70x40.jpg" crc="4222797086" ref="gorgon"/>
+    <file name="gorgon_overview70x40.jpg" crc="4263104537" ref="gorgon"/>
+    <file name="gorgon_pipeline70x40.jpg" crc="4070987669" ref="gorgon"/>
+    <file name="gorgon_readyroom70x40.jpg" crc="526272704" ref="gorgon"/>
+    <file name="gorgon_watertreatment70x40.jpg" crc="503203766" ref="gorgon"/>
+    <file name="loading.gif" crc="3815509949" ref="gorgon"/>
+  </folder>
+  <file name="about-me.html" crc="271622039" mt="1425009092766" redirect="true"/>
+  <file name="contact.html" crc="446381124" mt="1425009092767" redirect="true"/>
+  <file name="index.html" crc="325627522" mt="1425009092769" redirect="true"/>
+  <file name="gorgon.html" crc="500639027" mt="1425009092771" redirect="true"/>
+</manifest>

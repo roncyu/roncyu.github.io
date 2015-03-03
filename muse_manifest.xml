@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425375803046">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425377221034">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
     <file name="master_a-master.css" crc="3981698239" ref="stratos:index:about-me:research:gorgon:levia:contact"/>

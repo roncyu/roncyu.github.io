@@ -1,7 +1,7 @@
 .version.levia /* version checker */
 {
-	color: #0000F3;
-	background-color: #ABF12E;
+	color: #0000F1;
+	background-color: #D49153;
 }
 
 .html
@@ -630,9 +630,9 @@
 	background-color: #A1A1A1;
 	background-color: rgba(67, 67, 67, 0.5);
 	padding: 10px;
-	line-height: 21px;
-	color: #F0F0F0;
 	text-align: center;
+	color: #F0F0F0;
+	line-height: 21px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	-pie-background: rgba(67, 67, 67, 0.5);
@@ -664,9 +664,9 @@
 	background-color: #A1A1A1;
 	background-color: rgba(67, 67, 67, 0.5);
 	padding: 10px;
-	line-height: 21px;
-	color: #F0F0F0;
 	text-align: center;
+	color: #F0F0F0;
+	line-height: 21px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	left: 865px;

@@ -1,14 +1,14 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425029543078">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425372796216">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
-    <file name="master_a-master.css" crc="4218052653" ref="contact:levia:research:gorgon:index:stratos:about-me"/>
-    <file name="contact.css" crc="4261786148" ref="contact"/>
-    <file name="levia.css" crc="4088131886" ref="levia"/>
-    <file name="research.css" crc="465492379" ref="research"/>
-    <file name="gorgon.css" crc="220771432" ref="gorgon"/>
+    <file name="master_a-master.css" crc="110135284" ref="stratos:index:about-me:research:gorgon:levia:contact"/>
+    <file name="stratos.css" crc="62384644" ref="stratos"/>
     <file name="index.css" crc="4125845712" ref="index"/>
-    <file name="stratos.css" crc="29919865" ref="stratos"/>
-    <file name="about-me.css" crc="4230223552" ref="about-me"/>
+    <file name="about-me.css" crc="3810810209" ref="about-me"/>
+    <file name="research.css" crc="432126438" ref="research"/>
+    <file name="gorgon.css" crc="3816123889" ref="gorgon"/>
+    <file name="levia.css" crc="4057239891" ref="levia"/>
+    <file name="contact.css" crc="105551223" ref="contact"/>
   </folder>
   <folder name="assets">
     <file name="gorgon_engine.png" crc="232016649" mt="1421954264000"/>

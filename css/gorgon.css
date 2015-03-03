@@ -1,7 +1,7 @@
 .version.gorgon /* version checker */
 {
-	color: #00000D;
-	background-color: #28B468;
+	color: #0000E3;
+	background-color: #756DF1;
 }
 
 .html
@@ -702,9 +702,9 @@
 	background-color: #A1A1A1;
 	background-color: rgba(67, 67, 67, 0.5);
 	padding: 10px;
-	line-height: 21px;
-	color: #F0F0F0;
 	text-align: center;
+	color: #F0F0F0;
+	line-height: 21px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	-pie-background: rgba(67, 67, 67, 0.5);
@@ -736,9 +736,9 @@
 	background-color: #A1A1A1;
 	background-color: rgba(67, 67, 67, 0.5);
 	padding: 10px;
-	line-height: 21px;
-	color: #F0F0F0;
 	text-align: center;
+	color: #F0F0F0;
+	line-height: 21px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	left: 865px;

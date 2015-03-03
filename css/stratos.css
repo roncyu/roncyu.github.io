@@ -1,7 +1,7 @@
 .version.stratos /* version checker */
 {
-	color: #000001;
-	background-color: #C88A79;
+	color: #000003;
+	background-color: #B7EA04;
 }
 
 .html
@@ -738,9 +738,9 @@
 	background-color: #A1A1A1;
 	background-color: rgba(67, 67, 67, 0.5);
 	padding: 10px;
-	line-height: 21px;
-	color: #F0F0F0;
 	text-align: center;
+	color: #F0F0F0;
+	line-height: 21px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	-pie-background: rgba(67, 67, 67, 0.5);
@@ -772,9 +772,9 @@
 	background-color: #A1A1A1;
 	background-color: rgba(67, 67, 67, 0.5);
 	padding: 10px;
-	line-height: 21px;
-	color: #F0F0F0;
 	text-align: center;
+	color: #F0F0F0;
+	line-height: 21px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	left: 865px;

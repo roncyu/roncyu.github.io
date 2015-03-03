@@ -1,7 +1,7 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425372796216">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425375803046">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
-    <file name="master_a-master.css" crc="110135284" ref="stratos:index:about-me:research:gorgon:levia:contact"/>
+    <file name="master_a-master.css" crc="3981698239" ref="stratos:index:about-me:research:gorgon:levia:contact"/>
     <file name="stratos.css" crc="62384644" ref="stratos"/>
     <file name="index.css" crc="4125845712" ref="index"/>
     <file name="about-me.css" crc="3810810209" ref="about-me"/>
@@ -23,7 +23,7 @@
     <file name="form_check.php" crc="306825315" ref="contact"/>
     <file name="form_throttle.php" crc="4293816517" ref="contact"/>
     <file name="form_process.php" crc="109188895" ref="contact"/>
-    <file name="form-u744.php" crc="236143745" ref="contact"/>
+    <file name="form-u744.php" crc="141762357" ref="contact"/>
     <file name="pie.js" crc="3827607177" ref="index:gorgon:stratos:research:levia"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index"/>
     <file name="musewpslideshow.js" crc="274584885" ref="index:gorgon:stratos:research:levia"/>
@@ -117,7 +117,7 @@
     <file name="levia_pipeline70x40.jpg" crc="34042257" ref="levia"/>
   </folder>
   <file name="about-me.html" crc="247182668" mt="1425013049508" redirect="true"/>
-  <file name="contact.html" crc="3959966451" mt="1425012613987" redirect="true"/>
+  <file name="contact.html" crc="3959966451" mt="1425375788885" redirect="true"/>
   <file name="index.html" crc="190586282" mt="1425013032243" redirect="true"/>
   <file name="gorgon.html" crc="4173082396" mt="1425012613989" redirect="true"/>
   <file name="stratos.html" crc="508274652" mt="1425012982881" redirect="true"/>

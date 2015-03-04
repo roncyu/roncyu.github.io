@@ -1,554 +1,866 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://roncyu.com/assets/gorgon_engine.png</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_engine.png</loc>
     <lastmod>2015-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/u759-17.png</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_overview.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/u759-17-r.png</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_west_corridor.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/u759-17-m.png</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_falls.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/u759-17-fs.png</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_oasis_entrance.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_feature-u387-fr.jpg</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_database.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_feature-u388-fr.jpg</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_east-passage.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_feature-u389-fr.jpg</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_engine2.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_feature-u390-fr.jpg</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_mineral_junction.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_overview.jpg</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_mineshaft.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/blank.gif</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_north-point.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_centralhub.jpg</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_oasis.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_crossroad.jpg</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_south_tunnel.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_database.jpg</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_storage.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_engine.jpg</loc>
+    <loc>http://roncyu.github.io/assets/gorgon_central.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_mineraljunction.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_overview.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_oasis.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_arsenal.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_pipeline.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_biolab.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_readyroom.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_bridge.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_watertreatment.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_cargo.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_overview70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_control.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_centralhub70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_hanger.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_crossroad70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_lobby.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_database70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_mess_hall.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_engine70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_observation.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_mineraljunction70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/stratos_west_access.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_oasis70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/levia_pipeline.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_pipeline70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/levia_acess_point.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_readyroom70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/levia_armory.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/gorgon_watertreatment70x40.jpg</loc>
+    <loc>http://roncyu.github.io/assets/levia_astrometrics.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/loading.gif</loc>
+    <loc>http://roncyu.github.io/assets/levia_east_wing.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_overview.jpg</loc>
+    <loc>http://roncyu.github.io/assets/levia_hanger_bay.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_arsenal.jpg</loc>
+    <loc>http://roncyu.github.io/assets/levia_junction.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_biolab.jpg</loc>
+    <loc>http://roncyu.github.io/assets/levia_lounge.png</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_bridge.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/assets/research_station.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_cargo.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/assets/research_station2.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_control.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/assets/research_baggage.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_hanger.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/assets/research_bar.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_lobby.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/assets/research_club.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_messhall.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/assets/research_club2.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_observation.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/assets/research_holo.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_westwing.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/assets/research_plaza.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_overview70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/assets/research_reactor.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_arsenal70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/u759-17.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_biolab70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/u759-17-r.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_bridge70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/u759-17-m.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_cargo70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/u759-17-fs.png</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_control70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/gorgon_feature-u387-fr.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_hanger70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_feature-u388-fr.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_lobby70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/levia_feature-u389-fr.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_messhall70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/research_feature-u390-fr.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_observation70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/gorgon_overview.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/stratos_westwing70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/blank.gif</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_baggage.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/gorgon_database.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_bar.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/gorgon_engine.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_club.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/gorgon_oasis.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_holo.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/gorgon_overview70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_kiosk.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/gorgon_database70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_plaza.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/gorgon_engine70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_reactor.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/gorgon_oasis70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_station.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/loading.gif</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_baggage70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_overview.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_bar70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_arsenal.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_club70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_biolab.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_holo70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_bridge.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_kiosk70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_cargo.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_plaza70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_control.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_reactor70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_hanger.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/research_station70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_lobby.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_accesspoint.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_observation.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_armory.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_overview70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_astrometrics.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_arsenal70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_eastwing.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_biolab70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_hangerbay.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_bridge70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_junction.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_cargo70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_lobby.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_control70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_pipeline.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_hanger70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_accesspoint70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_lobby70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_armory70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/stratos_observation70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_astrometrics70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/research_baggage.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_eastwing70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/research_bar.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_hangerbay70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/research_club.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_junction70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/research_holo.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_lobby70x40.jpg</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/images/research_plaza.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_reactor.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_station.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_baggage70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_bar70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_club70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_holo70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_plaza70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_reactor70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_station70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_armory.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_astrometrics.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_junction.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_pipeline.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_armory70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_astrometrics70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_junction70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_pipeline70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_west_corridor.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_falls.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_oasis_entrance.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_east%20passage.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_mineral_junction.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_mineshaft.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_north%20point.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_south_tunnel.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_storage.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_central.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_west_corridor70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_falls70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_oasis_entrance70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_east%20passage70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_mineral_junction70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_mineshaft70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_north%20point70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_south_tunnel70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_storage70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/gorgon_central70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/stratos_mess_hall.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/stratos_west_access.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/stratos_mess_hall70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/stratos_west_access70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_station2.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_club2.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_station270x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/research_club270x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_acess_point.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_east_wing.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_hanger_bay.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_lounge.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_acess_point70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_east_wing70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_hanger_bay70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/images/levia_lounge70x40.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://roncyu.github.io/about-me.html</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/images/levia_pipeline70x40.jpg</loc>
+    <loc>http://roncyu.github.io/contact.html</loc>
     <lastmod>2015-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/about-me.html</loc>
+    <loc>http://roncyu.github.io/index.html</loc>
     <lastmod>2015-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/contact.html</loc>
-    <lastmod>2015-03-03</lastmod>
+    <loc>http://roncyu.github.io/gorgon.html</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/index.html</loc>
-    <lastmod>2015-02-26</lastmod>
+    <loc>http://roncyu.github.io/stratos.html</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/gorgon.html</loc>
-    <lastmod>2015-02-26</lastmod>
+    <loc>http://roncyu.github.io/research.html</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://roncyu.com/stratos.html</loc>
-    <lastmod>2015-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://roncyu.com/research.html</loc>
-    <lastmod>2015-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://roncyu.com/levia.html</loc>
-    <lastmod>2015-02-26</lastmod>
+    <loc>http://roncyu.github.io/levia.html</loc>
+    <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

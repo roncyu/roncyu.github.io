@@ -12,9 +12,9 @@
 {
 	border-style: none;
 	background-color: transparent;
+	line-height: 36px;
 	font-size: 30px;
 	color: #ED1C24;
-	line-height: 36px;
 	letter-spacing: -1px;
 	text-align: center;
 	font-family: asap, sans-serif;
@@ -47,9 +47,9 @@
 {
 	border-style: none;
 	background-color: transparent;
+	line-height: 19px;
 	font-size: 16px;
 	color: #434343;
-	line-height: 19px;
 	letter-spacing: 0px;
 	text-align: center;
 	font-family: asap, sans-serif;
@@ -185,6 +185,11 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #1E1E1E;
+}
+
+#u1105_align_to_page
+{
+	position: relative;
 }
 
 #u343,#u685,#u385

@@ -1,7 +1,7 @@
 .version.levia /* version checker */
 {
-	color: #0000F1;
-	background-color: #D49153;
+	color: #000008;
+	background-color: #1ECB1E;
 }
 
 .html
@@ -290,7 +290,7 @@
 	z-index: 43;
 }
 
-#u1438
+#u1769
 {
 	z-index: 44;
 	width: 807px;
@@ -302,7 +302,7 @@
 	position: relative;
 }
 
-#u1715
+#u2380
 {
 	z-index: 46;
 	width: 807px;
@@ -314,7 +314,7 @@
 	position: relative;
 }
 
-#u1724
+#u2389
 {
 	z-index: 48;
 	width: 807px;
@@ -326,7 +326,7 @@
 	position: relative;
 }
 
-#u1733
+#u2398
 {
 	z-index: 50;
 	width: 807px;
@@ -338,7 +338,7 @@
 	position: relative;
 }
 
-#u1742
+#u2407
 {
 	z-index: 52;
 	width: 807px;
@@ -350,7 +350,7 @@
 	position: relative;
 }
 
-#u1751
+#u2416
 {
 	z-index: 54;
 	width: 807px;
@@ -362,7 +362,7 @@
 	position: relative;
 }
 
-#u1760
+#u2425
 {
 	z-index: 56;
 	width: 807px;
@@ -374,7 +374,7 @@
 	position: relative;
 }
 
-#u1769
+#u2434
 {
 	z-index: 58;
 	width: 807px;
@@ -386,7 +386,7 @@
 	position: relative;
 }
 
-#u1438_img,#u1715_img,#u1724_img,#u1733_img,#u1742_img,#u1751_img,#u1760_img,#u1769_img
+#u1769_img,#u2380_img,#u2389_img,#u2398_img,#u2407_img,#u2416_img,#u2425_img,#u2434_img
 {
 	padding-top: 3px;
 	padding-bottom: 2px;
@@ -412,7 +412,7 @@
 	z-index: 60;
 }
 
-#u1465
+#u1772
 {
 	z-index: 61;
 	width: 70px;
@@ -427,7 +427,7 @@
 	left: 132px;
 }
 
-#u1465:hover
+#u1772:hover
 {
 	border-color: #6B6B6B;
 	opacity: 1;
@@ -436,7 +436,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1718
+#u2383
 {
 	z-index: 63;
 	width: 70px;
@@ -451,7 +451,7 @@
 	left: 212px;
 }
 
-#u1718:hover
+#u2383:hover
 {
 	border-color: #6B6B6B;
 	opacity: 1;
@@ -460,7 +460,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1727
+#u2392
 {
 	z-index: 65;
 	width: 70px;
@@ -475,7 +475,7 @@
 	left: 292px;
 }
 
-#u1727:hover
+#u2392:hover
 {
 	border-color: #6B6B6B;
 	opacity: 1;
@@ -484,7 +484,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1736
+#u2401
 {
 	z-index: 67;
 	width: 70px;
@@ -499,7 +499,7 @@
 	left: 372px;
 }
 
-#u1736:hover
+#u2401:hover
 {
 	border-color: #6B6B6B;
 	opacity: 1;
@@ -508,7 +508,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1745
+#u2410
 {
 	z-index: 69;
 	width: 70px;
@@ -523,7 +523,7 @@
 	left: 452px;
 }
 
-#u1745:hover
+#u2410:hover
 {
 	border-color: #6B6B6B;
 	opacity: 1;
@@ -532,7 +532,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1754
+#u2419
 {
 	z-index: 71;
 	width: 70px;
@@ -547,7 +547,7 @@
 	left: 532px;
 }
 
-#u1754:hover
+#u2419:hover
 {
 	border-color: #6B6B6B;
 	opacity: 1;
@@ -556,7 +556,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1763
+#u2428
 {
 	z-index: 73;
 	width: 70px;
@@ -571,7 +571,7 @@
 	left: 612px;
 }
 
-#u1763:hover
+#u2428:hover
 {
 	border-color: #6B6B6B;
 	opacity: 1;
@@ -580,7 +580,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1772
+#u2437
 {
 	z-index: 75;
 	width: 70px;
@@ -595,7 +595,7 @@
 	left: 692px;
 }
 
-#u1772:hover
+#u2437:hover
 {
 	border-color: #6B6B6B;
 	opacity: 1;
@@ -604,7 +604,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1465.SSSlideLinkSelected,#u1718.SSSlideLinkSelected,#u1727.SSSlideLinkSelected,#u1736.SSSlideLinkSelected,#u1745.SSSlideLinkSelected,#u1754.SSSlideLinkSelected,#u1763.SSSlideLinkSelected,#u1772.SSSlideLinkSelected
+#u1772.SSSlideLinkSelected,#u2383.SSSlideLinkSelected,#u2392.SSSlideLinkSelected,#u2401.SSSlideLinkSelected,#u2410.SSSlideLinkSelected,#u2419.SSSlideLinkSelected,#u2428.SSSlideLinkSelected,#u2437.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
@@ -614,7 +614,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1465_img,#u1718_img,#u1727_img,#u1736_img,#u1745_img,#u1754_img,#u1763_img,#u1772_img
+#u1772_img,#u2383_img,#u2392_img,#u2401_img,#u2410_img,#u2419_img,#u2428_img,#u2437_img
 {
 	padding-top: 5px;
 	padding-bottom: 6px;
@@ -630,9 +630,9 @@
 	background-color: #A1A1A1;
 	background-color: rgba(67, 67, 67, 0.5);
 	padding: 10px;
-	text-align: center;
-	color: #F0F0F0;
 	line-height: 21px;
+	color: #F0F0F0;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	-pie-background: rgba(67, 67, 67, 0.5);
@@ -664,9 +664,9 @@
 	background-color: #A1A1A1;
 	background-color: rgba(67, 67, 67, 0.5);
 	padding: 10px;
-	text-align: center;
-	color: #F0F0F0;
 	line-height: 21px;
+	color: #F0F0F0;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	left: 865px;

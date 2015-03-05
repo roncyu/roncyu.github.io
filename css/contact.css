@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000E6;
-	background-color: #D26400;
+	color: #00000B;
+	background-color: #C22B06;
 }
 
 .html
@@ -297,9 +297,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	text-align: left;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
@@ -316,9 +316,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	text-align: left;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
@@ -335,9 +335,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	text-align: left;
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;

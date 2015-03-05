@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00001A;
-	background-color: #67721F;
+	color: #0000E6;
+	background-color: #D26400;
 }
 
 .html
@@ -298,14 +298,13 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 24px;
-	line-height: 29px;
+	font-size: 18px;
+	line-height: 22px;
 	text-align: left;
-	font-family: strong, sans-serif;
-	font-weight: 400;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 62px;
+	margin-top: 63px;
 	left: 693px;
 }
 
@@ -318,14 +317,13 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 24px;
-	line-height: 29px;
+	font-size: 18px;
+	line-height: 22px;
 	text-align: left;
-	font-family: strong, sans-serif;
-	font-weight: 400;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 108px;
+	margin-top: 105px;
 	left: 693px;
 }
 
@@ -338,14 +336,13 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 24px;
-	line-height: 29px;
+	font-size: 18px;
+	line-height: 22px;
 	text-align: left;
-	font-family: strong, sans-serif;
-	font-weight: 400;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 154px;
+	margin-top: 149px;
 	left: 693px;
 }
 
